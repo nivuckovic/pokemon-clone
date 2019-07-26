@@ -1,0 +1,20 @@
+<Root>
+    <Box left="0" top="0" width="16" height="160"/>
+    <Box left="16" top="144" width="112" height="16"/>
+    <Box left="144" top="144" width="128" height="16"/>
+    <Box left="256" top="0" width="16" height="144"/>
+    <Box left="16" top="32" width="80" height="16"/>
+    <Box left="80" top="48" width="112" height="16"/>
+    <Box left="176" top="16" width="16" height="32"/>
+    <Box left="192" top="16" width="64" height="16"/>
+</Root>
+
+<Root/>
+
+<Root/>
+
+<Root/>
+
+<Root>
+    <Box left="128" top="144" width="16" height="16" location="cerulean_city" X="352" Y="320"/>
+</Root>

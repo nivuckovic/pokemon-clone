@@ -1,0 +1,24 @@
+<Root>
+    <Box left="0" top="0" width="240" height="640"/>
+    <Box left="528" top="0" width="240" height="640"/>
+    <Box left="480" top="448" width="48" height="64"/>
+    <Box left="512" top="512" width="16" height="16"/>
+    <Box left="240" top="544" width="288" height="96"/>
+    <Box left="352" top="528" width="96" height="16"/>
+    <Box left="432" top="512" width="16" height="16"/>
+    <Box left="352" top="512" width="16" height="16"/>
+    <Box left="304" top="0" width="16" height="448"/>
+    <Box left="448" top="0" width="16" height="448"/>
+</Root>
+
+<Root>
+    <Box left="320" top="432" width="128" height="16"/>
+    <Box left="320" top="304" width="128" height="16"/>
+    <Box left="320" top="224" width="128" height="16"/>
+    <Box left="320" top="144" width="128" height="16"/>
+    <Box left="320" top="64" width="128" height="16"/>
+</Root>
+
+<Root/>
+
+<Root/>

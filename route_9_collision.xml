@@ -1,0 +1,47 @@
+<Root>
+    <Box left="0" top="0" width="1152" height="16"/>
+    <Box left="0" top="16" width="112" height="112"/>
+    <Box left="0" top="160" width="176" height="160"/>
+    <Box left="32" top="144" width="16" height="16"/>
+    <Box left="176" top="288" width="976" height="32"/>
+    <Box left="288" top="48" width="80" height="160"/>
+    <Box left="240" top="128" width="48" height="80"/>
+    <Box left="240" top="112" width="16" height="16"/>
+    <Box left="480" top="16" width="96" height="112"/>
+    <Box left="464" top="112" width="16" height="16"/>
+    <Box left="576" top="112" width="80" height="96"/>
+    <Box left="672" top="16" width="96" height="80"/>
+    <Box left="1040" top="16" width="112" height="112"/>
+    <Box left="928" top="48" width="80" height="96"/>
+    <Box left="976" top="176" width="80" height="80"/>
+    <Box left="1104" top="176" width="48" height="112"/>
+    <Box left="848" top="128" width="80" height="128"/>
+    <Box left="720" top="128" width="80" height="80"/>
+    <Box left="416" top="224" width="96" height="64"/>
+</Root>
+
+<Root>
+    <Box left="112" top="112" width="128" height="16"/>
+    <Box left="176" top="176" width="64" height="16"/>
+    <Box left="176" top="240" width="144" height="16"/>
+    <Box left="352" top="240" width="64" height="16"/>
+    <Box left="368" top="160" width="176" height="16"/>
+    <Box left="368" top="64" width="80" height="16"/>
+    <Box left="576" top="64" width="32" height="16"/>
+    <Box left="640" top="64" width="32" height="16"/>
+    <Box left="768" top="64" width="32" height="16"/>
+    <Box left="832" top="64" width="96" height="16"/>
+    <Box left="1008" top="64" width="32" height="16"/>
+    <Box left="928" top="192" width="48" height="16"/>
+    <Box left="800" top="176" width="32" height="16"/>
+    <Box left="656" top="176" width="64" height="16"/>
+    <Box left="576" top="240" width="272" height="16"/>
+    <Box left="512" top="240" width="32" height="16"/>
+    <Box left="1056" top="240" width="48" height="16"/>
+    <Box left="1056" top="192" width="48" height="16"/>
+    <Box left="928" top="240" width="48" height="16"/>
+</Root>
+
+<Root/>
+
+<Root/>

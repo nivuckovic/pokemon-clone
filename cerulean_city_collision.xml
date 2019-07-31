@@ -1,0 +1,61 @@
+<Root>
+    <Box left="0" top="304" width="128" height="16"/>
+    <Box left="112" top="80" width="16" height="224"/>
+    <Box left="128" top="80" width="224" height="16"/>
+    <Box left="336" top="0" width="16" height="192"/>
+    <Box left="400" top="0" width="16" height="128"/>
+    <Box left="448" top="560" width="16" height="80"/>
+    <Box left="304" top="560" width="16" height="80"/>
+    <Box left="544" top="192" width="16" height="144"/>
+    <Box left="432" top="336" width="16" height="16"/>
+    <Box left="112" top="512" width="304" height="16"/>
+    <Box left="432" top="512" width="192" height="16"/>
+    <Box left="608" top="320" width="16" height="192"/>
+    <Box left="320" top="400" width="16" height="16"/>
+    <Box left="176" top="400" width="16" height="64"/>
+    <Box left="0" top="0" width="256" height="32"/>
+    <Box left="0" top="32" width="64" height="176"/>
+    <Box left="128" top="128" width="32" height="64"/>
+    <Box left="176" top="128" width="160" height="64"/>
+    <Box left="464" top="0" width="16" height="144"/>
+    <Box left="448" top="144" width="112" height="48"/>
+    <Box left="528" top="128" width="32" height="16"/>
+    <Box left="656" top="176" width="80" height="112"/>
+    <Box left="624" top="64" width="112" height="112"/>
+    <Box left="608" top="128" width="16" height="48"/>
+    <Box left="480" top="64" width="144" height="16"/>
+    <Box left="656" top="320" width="80" height="320"/>
+    <Box left="528" top="560" width="128" height="80"/>
+    <Box left="0" top="368" width="112" height="272"/>
+    <Box left="112" top="560" width="128" height="80"/>
+    <Box left="192" top="384" width="64" height="80"/>
+    <Box left="448" top="272" width="96" height="64"/>
+    <Box left="480" top="336" width="16" height="16"/>
+    <Box left="512" top="336" width="16" height="16"/>
+    <Box left="208" top="240" width="112" height="48"/>
+    <Box left="320" top="304" width="32" height="16"/>
+    <Box left="368" top="304" width="32" height="16"/>
+    <Box left="320" top="256" width="80" height="48"/>
+    <Box left="336" top="416" width="240" height="32"/>
+    <Box left="480" top="448" width="96" height="16"/>
+    <Box left="384" top="448" width="80" height="16"/>
+    <Box left="336" top="448" width="32" height="16"/>
+</Root>
+
+<Root>
+    <Box left="560" top="320" width="48" height="16"/>
+    <Box left="400" top="288" width="48" height="16"/>
+    <Box left="320" top="576" width="128" height="16"/>
+    <Box left="176" top="256" width="32" height="16"/>
+    <Box left="416" top="16" width="48" height="16"/>
+</Root>
+
+<Root/>
+
+<Root/>
+
+<Root>
+    <Box left="352" top="304" width="16" height="16" location="pokemon_center" X="128" Y="128"/>
+    <Box left="464" top="448" width="16" height="16" location="pokemon_market" X="80" Y="112"/>
+    <Box left="368" top="448" width="16" height="16" location="pokemon_house1" X="80" Y="112"/>
+</Root>
